@@ -1,0 +1,1 @@
+const gerdaJSClasses = ["theme-dark", "theme-light"];
